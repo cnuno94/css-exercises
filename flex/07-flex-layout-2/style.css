@@ -41,8 +41,6 @@ body {
   border-radius: 4px;
   width: 300px;
   display: flex;
-  align-items: center;
-  justify-content: center;
   padding: 16px;
 }
 
